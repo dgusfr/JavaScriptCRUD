@@ -17,7 +17,10 @@ Permite fazer requisições como adicionar, editar e excluir um usuario de uma A
 ## Instalações
 
 → npm install -g json-server
+
 → npm install -g browser-sync
 
+
 → json-server --watch db.json
+
 → browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
