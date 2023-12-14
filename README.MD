@@ -1,5 +1,23 @@
 # CRUD com JavaScript
 
+<div align="center">
+  <img src="img/proj1.png" alt="Imagem do Projeto">
+</div>
+
+### Mensagem de Sucesso
+
+<div align="center">
+  <img src="img/proj2.png" alt="Imagem do Projeto">
+</div>
+
+### Após a adição do Cliente
+
+#### Sendo possivel editar ou excluir o cliente
+
+<div align="center">
+  <img src="img/proj3.png" alt="Imagem do Projeto">
+</div>
+
 ## Sumário
 
 - [Sobre o Projeto](#sobre-o-projeto)
@@ -28,4 +46,4 @@ Para rodar as instalações a cima:
 
 → browser-sync start --server --file . --host --port 5000 --startPath admin/telas/lista_cliente.html
 
-OBS: Usar um terminal para cada um 
+OBS: Usar um terminal para cada um
