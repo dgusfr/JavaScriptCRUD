@@ -1,5 +1,11 @@
 # CRUD com JavaScript
 
+## Sumário
+
+- [Sobre o Projeto](#sobre-o-projeto)
+  - [Funcionalidades](#funcionalidades)
+- [Instalações](#instalacao)
+
 <div align="center">
   <img src="img/proj1.png" alt="Imagem do Projeto">
 </div>
@@ -17,12 +23,6 @@
 <div align="center">
   <img src="img/proj3.png" alt="Imagem do Projeto">
 </div>
-
-## Sumário
-
-- [Sobre o Projeto](#sobre-o-projeto)
-  - [Funcionalidades](#funcionalidades)
-- [Instalações](#instalacao)
 
 ## Sobre o Projeto
 
