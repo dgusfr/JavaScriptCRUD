@@ -1,6 +1,11 @@
 # CRUD com JavaScript
 
-## Logo
+CRUD representa as quatro operações básicas utilizadas em sistemas de banco de dados: Create (Criar), Read (Ler), Update (Atualizar) e Delete (Apagar). 
+
+Essas operações são essenciais para a manipulação de dados em qualquer aplicação, com JavaScript não é diferente 
+e com esse projeto implementamos as operações de CRUD no JavaScript.
+
+## Interface do Projeto
 
 <div align="center">
   <img src="img/proj1.png" alt="Imagem do Projeto" width="800">
